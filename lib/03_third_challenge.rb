@@ -23,7 +23,7 @@ def third_challenge
           :age = > "18"
           }
         ]
-    }, 
+    },
    :capulet => {
       :patriarch => {
         :name => "Lord Capulet"
